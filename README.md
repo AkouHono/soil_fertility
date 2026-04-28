@@ -20,10 +20,10 @@ The system classifies soil into **three fertility categories**, helping improve 
 
 ## 🎯 Objectives
 
-✔ Predict soil fertility into 3 classes
-✔ Handle imbalanced datasets effectively
-✔ Compare multiple machine learning models
-✔ Improve performance using advanced techniques
+I. Predict soil fertility into 3 classes
+II. Handle imbalanced datasets effectively
+III. Compare multiple machine learning models
+IV. Improve performance using advanced techniques
 
 
 
