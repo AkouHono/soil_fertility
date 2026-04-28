@@ -63,15 +63,14 @@ However, real-world datasets are often:
 
 ##  Methodology
 
-```mermaid
-graph TD
+
+
 A[Dataset] --> B[Data Preprocessing]
 B --> C[Class Imbalance Problem]
 C --> D[SMOTE Balancing]
 D --> E[Model Training]
 E --> F[Model Comparison]
 F --> G[Best Model: XGBoost]
-```
 
 ### Key Steps:
 
